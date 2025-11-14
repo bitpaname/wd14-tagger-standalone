@@ -47,8 +47,9 @@ python run.py --dir dir/dir
 ## Support Models
 
 ```
-# Camie Tagger (released 2025)
+# Camie Tagger / Camie Tagger v2 model.(released 2025)
 python run.py --model camie-tagger --file image.jpg
+python run.py --model camie-tagger-v2 --file image.jpg
 
 # SmilingWolf large model. (released 2024)
 python run.py --model wd-vit-large-tagger-v3 --file image.jpg
